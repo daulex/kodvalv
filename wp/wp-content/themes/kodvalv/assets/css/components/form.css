@@ -1,0 +1,7 @@
+.k-form-row{
+    margin-bottom: 1rem;
+}
+.row-textarea.k-form-row textarea{
+    display: block;
+    width: 100%;
+}
